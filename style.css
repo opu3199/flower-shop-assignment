@@ -1,16 +1,17 @@
  *{
     margin: 0;
  } 
-  .image{
-    width: 400px;  
+ .image{
+    width: 400px; 
+    
 }
 .picture{
     padding-right: 70px;
     padding-top: 40px;
+    
 }
 .container{
-    display: flex;
-    
+    display: flex;  
     background-color: lightpink;
     gap: 50px;    
 }
@@ -197,7 +198,7 @@ input{
     background-image: url(./images/240_F_391911620_vUJTPRx6NXhTWN2iWBGmNrOzTrcyju0V.jpg);
     border-radius: 400px;
     padding-top: 90px;
-    padding-left: 20px;
+    padding-left: 40px;
     padding-right: 40px;
     
     
