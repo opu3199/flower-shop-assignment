@@ -72,16 +72,25 @@
     color: crimson;
 }
 .insta{
-    margin: 60px 60px;
+    margin: 60px 110px;
+    
+    
       
+}
+.insta-pic{
+    width: 310px;
+    height: 300px;
+    
 }
 .pic{
     display: flex;
-    gap: 10px;   
+    gap: 20px;  
+    justify-content: center; 
 }
 
 .title2{
     text-align: center;
+    padding: 0 305px;
 }
 .ins{
     font-size: 35px;
@@ -92,7 +101,7 @@
     padding-bottom: 25px;
 }
 .deal{
-    margin: 60px 60px;
+    margin: 60px 110px;
     padding: 50px;
     text-align: center;
     background-image: url(./images/Rectangle\ 9.png);
@@ -136,7 +145,7 @@ input{
     padding-bottom: 15px;
 }
 .flo{
-    color:;
+    color:crimson;
 }
 .bonus1{
     margin: 60px 60px;
@@ -161,40 +170,46 @@ input{
 }
 .flower-title{
     display: flex;
-    gap: 20px;
+    gap: 50px;
     justify-content: center;
     
 }
 .pink{
     background-image: url(./images/240_F_303742480_YS62yjfMDmdTvDC8ttlUTKLryynV8FIX.jpg);
-    border-radius: 100px ;
-    padding-top: 90px;
+    border-radius: 400px ;
+    padding-top: 80px;
     padding-left: 20px;
-    padding-right: 30px;
+    padding-right: 50px;
     
     
 }
 .pink2{
     background-image: url(./images/240_F_336892491_aZIazKCweTtVXT4BT8I2OxOlNwk1JV7j.jpg);
-    border-radius: 100px ;
+    border-radius: 400px ;
     padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 40px;
     
     
     
 }
 .pink3{
     background-image: url(./images/240_F_391911620_vUJTPRx6NXhTWN2iWBGmNrOzTrcyju0V.jpg);
-    border-radius: 100px;
-    padding-top: 50px;
+    border-radius: 400px;
+    padding-top: 90px;
     padding-left: 20px;
-    padding-right: 30px;
+    padding-right: 40px;
     
     
     
 }
+.pink-img{
+    width: 200px;
+    height: 200px;
+}
 .title-down a{
     
-    padding: 120px;
+    padding: 75px;
     font-size: 20px;
     font-weight: bold;
     color: black;
@@ -204,16 +219,20 @@ input{
     text-align: center;
     padding: 30px;  
 }
-.gift{
-    display: flex;
+.gift{ 
     margin: 60px 60px;
-    padding: 50px;
-    gap: 80px;
+    padding: 80px;
+    background-color: lemonchiffon;
+}
+.bonus2{
+    display: flex;
+    gap: 90px;
 }
 .gift-head{
     text-align: center;
     font-size: 40px;
     padding-right: 60px;
+    padding-top: 70px;
     
 }
 .gift-pera{
@@ -222,6 +241,36 @@ input{
 }
 .img2{
     width: 300px;
-    border-radius: 100%;
+    border-radius: 100px;
+}
+.more{
+    display: flex;
+    gap: 30px;
+}
+.tulip{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.black{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.tag{
+    padding: 65px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn7{
+    padding: 100px;
+    
+}
+.btn-click{
+    font-size: 20px;
+    padding: 10px;
+    border: 0;
+    background-color: crimson;
 }
 
