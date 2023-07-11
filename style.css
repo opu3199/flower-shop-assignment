@@ -136,5 +136,73 @@ input{
     padding-bottom: 15px;
 }
 .flo{
-    color: crimson;
+    color:;
 }
+.bonus1{
+    margin: 60px 60px;
+    padding: 50px;
+    padding-bottom: 0;
+    
+}
+.our{
+    text-align: center;
+    
+    
+}
+.feat{
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+.feat-pera{
+    font-size: 25px;
+    padding-bottom: 45px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.flower-title{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+.pink{
+    background-image: url(./images/240_F_303742480_YS62yjfMDmdTvDC8ttlUTKLryynV8FIX.jpg);
+    border-radius: 100px ;
+    padding-top: 90px;
+    padding-left: 20px;
+    padding-right: 30px;
+    
+    
+}
+.pink2{
+    background-image: url(./images/240_F_336892491_aZIazKCweTtVXT4BT8I2OxOlNwk1JV7j.jpg);
+    border-radius: 100px ;
+    padding-top: 50px;
+    
+    
+    
+}
+.pink3{
+    background-image: url(./images/240_F_391911620_vUJTPRx6NXhTWN2iWBGmNrOzTrcyju0V.jpg);
+    border-radius: 100px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 30px;
+    
+    
+    
+}
+.title-down a{
+    
+    padding: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    
+}
+.title-down{
+    text-align: center;
+    padding: 30px;
+    
+}
+
